@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Crispy Baked Wrapper Appetizer by YM CHANKO
+=======
+Crispy Baked Wrapper Appetizer by Yonas.
+ Chanko fromFpay
+>>>>>>> main
 
 Menu Class: Appetizers
 
@@ -39,5 +44,9 @@ Allergy warning
 <<<<<<< Updated upstream
 Download Recipe from www.karpersky.com
 =======
+<<<<<<< HEAD
 Download Recipe from https://franyrespy.com
+=======
+Download Recipe from WWW.Google.COM
+>>>>>>> main
 >>>>>>> Stashed changes
