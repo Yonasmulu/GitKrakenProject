@@ -1,4 +1,5 @@
-Crispy Baked Wrapper Appetizer by Yonas Mulu Chanko
+Crispy Baked Wrapper Appetizer by Yonas.
+ Chanko fromFpay
 
 Menu Class: Appetizers
 
@@ -36,4 +37,8 @@ Allergy warning
 2. Cheese
 3. Black Olives
 
+<<<<<<< Updated upstream
 Download Recipe from www.karpersky.com
+=======
+Download Recipe from WWW.Google.COM
+>>>>>>> Stashed changes
